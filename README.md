@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ```bash
 cd src
-python simulate_corner_kick.py
+python main.py
 ```
 
 2. Adjust simulation parameters in the `config.json` file within the `src` directory to modify conditions such as initial velocities, launch angles (both horizontal and vertical), and spin properties.
