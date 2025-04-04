@@ -95,6 +95,12 @@ Potential improvements include:
 - Cook, B. G., & Goff, J. E. (2006). *Parameter space for successful soccer kicks*. European Journal of Physics.
 - Dormand, J.R., & Prince, P.J. (1980). *A family of embedded Runge-Kutta formulae*. Journal of Computational and Applied Mathematics.
 
+## Developed By
+
+- Yacine Benhamed
+- Shuhan Wang
+
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
